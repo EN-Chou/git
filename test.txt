@@ -9,4 +9,6 @@ void todo1(){
     back to the master, I kept on working in this zone
 }
 void todo2(){}
-void todo3(){}
+void todo3(){
+    and then this line is first added on b3
+}
