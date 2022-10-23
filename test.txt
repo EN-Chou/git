@@ -5,6 +5,8 @@ int main{
     return 0;
 }
 
-void todo1(){}
+void todo1(){
+    back to the master, I kept on working in this zone
+}
 void todo2(){}
 void todo3(){}
