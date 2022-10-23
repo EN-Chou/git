@@ -9,5 +9,7 @@ void todo1(){
     back to the master, I kept on working in this zone
     then after b3 merge the former line, I add this line onto master
 }
-void todo2(){}
+void todo2(){
+    this line is first added on b2
+}
 void todo3(){}
