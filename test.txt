@@ -1,5 +1,4 @@
 int main{
-    todo1();
     return 0;
 }
 
