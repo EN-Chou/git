@@ -6,15 +6,9 @@ int main{
 }
 
 void todo1(){
-    (b1) add
-    (b1) add
-    (b4) add
-    (b4) add
 }
 void todo2(){
-    (b2) add
 }
 void todo3(){
-    (b3) add
 }
 
