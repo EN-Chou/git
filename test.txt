@@ -6,6 +6,7 @@ int main{
 }
 
 void todo1(){
+    (b1) add
 }
 void todo2(){
 }
