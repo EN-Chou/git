@@ -12,10 +12,6 @@ int main{
 void feature1(){
 };
 void feature2(){
-    add sth;
-    add sth;
-    add sth;
-
 };
 void feature3(){
     add sth;
