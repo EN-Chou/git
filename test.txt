@@ -6,6 +6,8 @@ int main{
 
 void todo1(){
     add sth here
+    add sth here
+    add sth here
 }
 void todo2(){
     add sth here
