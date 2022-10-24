@@ -7,6 +7,8 @@ int main{
 }
 
 void feature1(){
+    add sth;
+    add sth;
 
 };
 void feature2(){
