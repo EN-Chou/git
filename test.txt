@@ -10,6 +10,5 @@ void todo1(){
     add sth here
 }
 void todo2(){
-    add sth here
 }
 
