@@ -7,6 +7,7 @@ int main{
 
 void todo1(){
     (b1) add
+    (b1) add
 }
 void todo2(){
 }
