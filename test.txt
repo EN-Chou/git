@@ -1,5 +1,5 @@
 void feature1();
-
+void feature2();
 
 int main{
 
