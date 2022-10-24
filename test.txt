@@ -4,8 +4,4 @@ int main{
     return 0;
 }
 
-void todo1(){
-}
-void todo2(){
-}
 
