@@ -10,6 +10,7 @@ void todo1(){
     (b1) add
 }
 void todo2(){
+    (b2) add
 }
 void todo3(){
 }
