@@ -14,6 +14,7 @@ void todo2(){
     (b1) edit sth here
     (b1) add
     (b1) add
+    (b1) add
 }
 void todo3(){
     and then this line is first added on b3
