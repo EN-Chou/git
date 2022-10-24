@@ -1,7 +1,9 @@
 int main{
     todo1();
+    todo2();
     return 0;
 }
 
 void todo1(){}
+void todo2(){}
 
